@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "Không gian cá nhân của bạn, luôn ở đây",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "submit": "Gửi",
+    "back": "Quay lại",
+    "loading": "Đang tải...",
+    "error": "Đã có lỗi xảy ra",
+    "success": "Xong!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "Góc nhỏ của bạn, luôn ở đây",
+    "hero_sub": "Dù bị mạng xã hội khóa tài khoản, bạn bè vẫn có thể ghé thăm và để lại tin nhắn",
+    "hero_cta": "Tạo trang của tôi",
+    "feature_1_title": "Cảm giác mini-homepage",
+    "feature_1_sub": "Sổ lưu bút, bạn bè, BGM — hoài niệm web cổ điển",
+    "feature_2_title": "Sao lưu mạng xã hội",
+    "feature_2_sub": "Ngôi nhà riêng nơi bạn bè luôn tìm được bạn",
+    "feature_3_title": "Tùy chỉnh & Ủng hộ",
+    "feature_3_sub": "Giao diện, màu sắc, BGM — mở khóa tất cả với một ly cà phê",
+    "my_byeolchae": "Trang của tôi"
+  },
+  "profile": {
+    "edit_profile": "Tùy chỉnh trang",
+    "bio_placeholder": "Giới thiệu ngắn (dưới 100 ký tự)",
+    "theme_label": "Màu chủ đề",
+    "bgm_label": "Nhạc nền",
+    "save_profile": "Lưu",
+    "supporter_badge_bronze": "☕ Người ủng hộ Cà phê",
+    "supporter_badge_silver": "🥈 Người ủng hộ Bạc",
+    "supporter_badge_gold": "🥇 Người ủng hộ Vàng"
+  },
+  "guestbook": {
+    "title": "Sổ lưu bút",
+    "placeholder": "Để lại tin nhắn ngắn (tối đa 140 ký tự)",
+    "submit": "Để lại tin nhắn",
+    "private_label": "Tin nhắn riêng tư",
+    "char_limit": "{count}/140",
+    "empty": "Sổ lưu bút còn trống. Hãy là người đầu tiên!",
+    "leave_message": "Để lại tin nhắn"
+  },
+  "post": {
+    "write_title": "Viết bài đăng",
+    "title_placeholder": "Tiêu đề",
+    "body_placeholder": "Viết gì đó...",
+    "image_label": "Đính kèm ảnh",
+    "submit": "Đăng",
+    "view_count": "{count} lượt xem",
+    "comment_title": "Bình luận",
+    "comment_placeholder": "Viết bình luận (tối đa 500 ký tự)",
+    "comment_submit": "Bình luận",
+    "no_posts": "Chưa có bài đăng nào",
+    "read_more": "Đọc thêm"
+  },
+  "friend": {
+    "title": "Bạn bè",
+    "add_friend": "Thêm bạn",
+    "pending": "Chờ xác nhận",
+    "accept": "Chấp nhận",
+    "reject": "Từ chối",
+    "blocked": "Đã chặn",
+    "no_friends": "Chưa có bạn bè nào",
+    "friend_request_sent": "Đã gửi lời mời kết bạn!"
+  },
+  "notification": {
+    "title": "Thông báo",
+    "guestbook": "{name} đã để lại tin nhắn trong sổ lưu bút",
+    "comment": "{name} đã bình luận bài đăng của bạn",
+    "friend_request": "{name} đã gửi lời mời kết bạn cho bạn",
+    "friend_accept": "{name} đã chấp nhận lời mời kết bạn của bạn",
+    "mark_read": "Đánh dấu tất cả đã đọc",
+    "empty": "Không có thông báo mới"
+  },
+  "support": {
+    "title": "Ủng hộ Byeolchae",
+    "subtitle": "Mua cho tôi một ly cà phê để ủng hộ trang này ☕",
+    "bronze_label": "☕ Cà phê",
+    "bronze_desc": "₩3,000 · Huy hiệu người ủng hộ",
+    "silver_label": "🐾 Thức ăn mèo",
+    "silver_desc": "₩5,000 · 3 tháng không quảng cáo + Huy hiệu bạc",
+    "gold_label": "🐱 Bộ đồ ăn vặt",
+    "gold_desc": "₩10,000 · 1 năm không quảng cáo + Tùy chỉnh đầy đủ + Huy hiệu vàng",
+    "coffee_copy": "Ủng hộ bằng một ly cà phê",
+    "pay_button": "Ủng hộ ngay"
+  },
+  "auth": {
+    "login_title": "Chào mừng đến Byeolchae",
+    "login_subtitle": "Đăng nhập để tạo trang cá nhân của bạn",
+    "google_login": "Tiếp tục với Google",
+    "nickname_title": "Chọn biệt danh",
+    "nickname_placeholder": "2–20 ký tự (chữ cái, số)",
+    "nickname_save": "Lưu biệt danh",
+    "nickname_error": "Biệt danh này đã được sử dụng hoặc không hợp lệ"
+  },
+  "moderation": {
+    "flagged_message": "Nội dung này đang được xem xét"
+  }
+}

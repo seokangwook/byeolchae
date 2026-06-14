@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-cream: #FAF6F0;
+    --color-parchment: #F0E8D8;
+    --color-sand: #E8D8C0;
+    --color-mocha: #8B6F47;
+    --color-bark: #5C3D2E;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-bark);
+  }
+  @font-face {
+    font-family: 'Pretendard Variable';
+    src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css');
+  }
+}
+
+@layer utilities {
+  .byeolchae-card {
+    @apply bg-white border border-sand rounded-2xl shadow-sm p-4;
+  }
+  .byeolchae-btn {
+    @apply px-4 py-2 rounded-xl font-medium transition-all duration-150 active:scale-95;
+  }
+  .byeolchae-btn-primary {
+    @apply byeolchae-btn bg-mocha text-white hover:bg-bark;
+  }
+  .byeolchae-btn-ghost {
+    @apply byeolchae-btn border border-sand text-mocha hover:bg-parchment;
+  }
+  .byeolchae-input {
+    @apply w-full px-3 py-2 rounded-xl border border-sand bg-cream focus:outline-none focus:ring-2 focus:ring-mocha/30 text-bark placeholder-mocha/40;
+  }
+}

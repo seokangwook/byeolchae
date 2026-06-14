@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "आपकी निजी जगह, हमेशा यहाँ",
+    "login": "लॉगिन",
+    "logout": "लॉगआउट",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "submit": "भेजें",
+    "back": "वापस",
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गलत हो गया",
+    "success": "हो गया!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "आपका छोटा-सा कोना, हमेशा यहाँ",
+    "hero_sub": "भले ही SNS ने आपको बैन कर दे, आपके दोस्त फिर भी यहाँ आकर संदेश छोड़ सकते हैं",
+    "hero_cta": "मेरा पेज बनाएं",
+    "feature_1_title": "मिनी-होमपेज का एहसास",
+    "feature_1_sub": "गेस्टबुक, दोस्त, BGM — पुराने वेब की यादें",
+    "feature_2_title": "SNS बैकअप",
+    "feature_2_sub": "आपका अपना घर जहाँ दोस्त हमेशा आपको ढूंढ सकते हैं",
+    "feature_3_title": "कस्टमाइज़ करें और सपोर्ट करें",
+    "feature_3_sub": "थीम, रंग, BGM — एक कॉफी से सब अनलॉक करें",
+    "my_byeolchae": "मेरा पेज"
+  },
+  "profile": {
+    "edit_profile": "पेज कस्टमाइज़ करें",
+    "bio_placeholder": "संक्षिप्त परिचय (100 अक्षरों से कम)",
+    "theme_label": "थीम रंग",
+    "bgm_label": "बैकग्राउंड म्यूज़िक",
+    "save_profile": "सहेजें",
+    "supporter_badge_bronze": "☕ कॉफी सपोर्टर",
+    "supporter_badge_silver": "🥈 सिल्वर सपोर्टर",
+    "supporter_badge_gold": "🥇 गोल्ड सपोर्टर"
+  },
+  "guestbook": {
+    "title": "गेस्टबुक",
+    "placeholder": "एक छोटा संदेश छोड़ें (अधिकतम 140 अक्षर)",
+    "submit": "संदेश छोड़ें",
+    "private_label": "निजी संदेश",
+    "char_limit": "{count}/140",
+    "empty": "गेस्टबुक खाली है। पहले लिखने वाले बनें!",
+    "leave_message": "संदेश छोड़ें"
+  },
+  "post": {
+    "write_title": "पोस्ट लिखें",
+    "title_placeholder": "शीर्षक",
+    "body_placeholder": "कुछ लिखें...",
+    "image_label": "फोटो जोड़ें",
+    "submit": "प्रकाशित करें",
+    "view_count": "{count} बार देखा गया",
+    "comment_title": "टिप्पणियाँ",
+    "comment_placeholder": "टिप्पणी लिखें (अधिकतम 500 अक्षर)",
+    "comment_submit": "टिप्पणी करें",
+    "no_posts": "अभी तक कोई पोस्ट नहीं",
+    "read_more": "और पढ़ें"
+  },
+  "friend": {
+    "title": "दोस्त",
+    "add_friend": "दोस्त जोड़ें",
+    "pending": "लंबित",
+    "accept": "स्वीकार करें",
+    "reject": "अस्वीकार करें",
+    "blocked": "ब्लॉक किया गया",
+    "no_friends": "अभी तक कोई दोस्त नहीं",
+    "friend_request_sent": "दोस्ती का अनुरोध भेज दिया गया!"
+  },
+  "notification": {
+    "title": "सूचनाएं",
+    "guestbook": "{name} ने गेस्टबुक में संदेश छोड़ा",
+    "comment": "{name} ने आपकी पोस्ट पर टिप्पणी की",
+    "friend_request": "{name} ने आपको दोस्ती का अनुरोध भेजा",
+    "friend_accept": "{name} ने आपका दोस्ती का अनुरोध स्वीकार किया",
+    "mark_read": "सभी पढ़े हुए चिह्नित करें",
+    "empty": "कोई नई सूचना नहीं"
+  },
+  "support": {
+    "title": "Byeolchae को सपोर्ट करें",
+    "subtitle": "इस पेज को सपोर्ट करने के लिए मुझे एक कॉफी दिलाएं ☕",
+    "bronze_label": "☕ कॉफी",
+    "bronze_desc": "₩3,000 · सपोर्टर बैज",
+    "silver_label": "🐾 बिल्ली का खाना",
+    "silver_desc": "₩5,000 · 3 महीने विज्ञापन-मुक्त + सिल्वर बैज",
+    "gold_label": "🐱 स्नैक सेट",
+    "gold_desc": "₩10,000 · 1 साल विज्ञापन-मुक्त + पूर्ण कस्टमाइज़ेशन + गोल्ड बैज",
+    "coffee_copy": "कॉफी से सपोर्ट करें",
+    "pay_button": "अभी सपोर्ट करें"
+  },
+  "auth": {
+    "login_title": "Byeolchae में आपका स्वागत है",
+    "login_subtitle": "अपना निजी पेज बनाने के लिए लॉगिन करें",
+    "google_login": "Google से जारी रखें",
+    "nickname_title": "एक उपनाम चुनें",
+    "nickname_placeholder": "2–20 अक्षर (अक्षर, संख्याएं)",
+    "nickname_save": "उपनाम सहेजें",
+    "nickname_error": "यह उपनाम पहले से लिया हुआ है या अमान्य है"
+  },
+  "moderation": {
+    "flagged_message": "यह सामग्री समीक्षाधीन है"
+  }
+}

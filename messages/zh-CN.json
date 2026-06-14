@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "你的专属空间，始终在这里",
+    "login": "登录",
+    "logout": "退出登录",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "submit": "提交",
+    "back": "返回",
+    "loading": "加载中...",
+    "error": "出错了",
+    "success": "完成！",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "你的小角落，始终在这里",
+    "hero_sub": "就算SNS封号，朋友们还是能来这里留言",
+    "hero_cta": "创建我的页面",
+    "feature_1_title": "迷你主页风格",
+    "feature_1_sub": "留言板、好友、BGM — 经典网络怀旧感",
+    "feature_2_title": "SNS备份",
+    "feature_2_sub": "朋友随时都能找到你的专属主页",
+    "feature_3_title": "自定义与支持",
+    "feature_3_sub": "主题、颜色、BGM — 请我喝杯咖啡即可全部解锁",
+    "my_byeolchae": "我的页面"
+  },
+  "profile": {
+    "edit_profile": "自定义页面",
+    "bio_placeholder": "简短介绍（100字以内）",
+    "theme_label": "主题颜色",
+    "bgm_label": "背景音乐",
+    "save_profile": "保存",
+    "supporter_badge_bronze": "☕ 咖啡支持者",
+    "supporter_badge_silver": "🥈 银牌支持者",
+    "supporter_badge_gold": "🥇 金牌支持者"
+  },
+  "guestbook": {
+    "title": "留言板",
+    "placeholder": "留下一条短消息（最多140字）",
+    "submit": "留言",
+    "private_label": "私密留言",
+    "char_limit": "{count}/140",
+    "empty": "留言板还是空的，来第一个留言吧！",
+    "leave_message": "留言"
+  },
+  "post": {
+    "write_title": "写文章",
+    "title_placeholder": "标题",
+    "body_placeholder": "写点什么...",
+    "image_label": "附加图片",
+    "submit": "发布",
+    "view_count": "{count} 次浏览",
+    "comment_title": "评论",
+    "comment_placeholder": "写评论（最多500字）",
+    "comment_submit": "评论",
+    "no_posts": "暂无文章",
+    "read_more": "阅读更多"
+  },
+  "friend": {
+    "title": "好友",
+    "add_friend": "添加好友",
+    "pending": "等待中",
+    "accept": "接受",
+    "reject": "拒绝",
+    "blocked": "已屏蔽",
+    "no_friends": "还没有好友",
+    "friend_request_sent": "好友申请已发送！"
+  },
+  "notification": {
+    "title": "通知",
+    "guestbook": "{name} 在留言板留言了",
+    "comment": "{name} 评论了你的文章",
+    "friend_request": "{name} 向你发送了好友申请",
+    "friend_accept": "{name} 接受了你的好友申请",
+    "mark_read": "全部标记为已读",
+    "empty": "没有新通知"
+  },
+  "support": {
+    "title": "支持 Byeolchae",
+    "subtitle": "请我喝杯咖啡来支持这个页面 ☕",
+    "bronze_label": "☕ 咖啡",
+    "bronze_desc": "₩3,000 · 支持者徽章",
+    "silver_label": "🐾 猫粮",
+    "silver_desc": "₩5,000 · 3个月无广告 + 银牌徽章",
+    "gold_label": "🐱 猫条套装",
+    "gold_desc": "₩10,000 · 1年无广告 + 完整自定义 + 金牌徽章",
+    "coffee_copy": "用咖啡支持我",
+    "pay_button": "立即支持"
+  },
+  "auth": {
+    "login_title": "欢迎来到 Byeolchae",
+    "login_subtitle": "登录并创建你的专属页面",
+    "google_login": "使用 Google 继续",
+    "nickname_title": "选择一个昵称",
+    "nickname_placeholder": "2–20个字符（字母、数字）",
+    "nickname_save": "保存昵称",
+    "nickname_error": "该昵称已被使用或无效"
+  },
+  "moderation": {
+    "flagged_message": "该内容正在审核中"
+  }
+}

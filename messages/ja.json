@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "あなただけの空間、いつもここに",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "submit": "送信",
+    "back": "戻る",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "success": "完了！",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "あなただけの小さな場所、いつもここに",
+    "hero_sub": "SNSがあなたをブロックしても、友達はここに来てメッセージを残せる",
+    "hero_cta": "マイページを作る",
+    "feature_1_title": "ミニホームページの雰囲気",
+    "feature_1_sub": "ゲストブック・友達・BGM — ウェブの懐かしさ",
+    "feature_2_title": "SNSバックアップ",
+    "feature_2_sub": "友達がいつでも見つけられる、あなただけのホーム",
+    "feature_3_title": "カスタマイズ＆サポート",
+    "feature_3_sub": "テーマ・カラー・BGM — コーヒー一杯で全解放",
+    "my_byeolchae": "マイページ"
+  },
+  "profile": {
+    "edit_profile": "ページをカスタマイズ",
+    "bio_placeholder": "自己紹介（100文字以内）",
+    "theme_label": "テーマカラー",
+    "bgm_label": "BGM",
+    "save_profile": "保存",
+    "supporter_badge_bronze": "☕ コーヒーサポーター",
+    "supporter_badge_silver": "🥈 シルバーサポーター",
+    "supporter_badge_gold": "🥇 ゴールドサポーター"
+  },
+  "guestbook": {
+    "title": "ゲストブック",
+    "placeholder": "短いメッセージを残してね（140文字以内）",
+    "submit": "メッセージを残す",
+    "private_label": "非公開メッセージ",
+    "char_limit": "{count}/140",
+    "empty": "ゲストブックはまだ空です。最初のメッセージを書いてみよう！",
+    "leave_message": "メッセージを残す"
+  },
+  "post": {
+    "write_title": "投稿を書く",
+    "title_placeholder": "タイトル",
+    "body_placeholder": "内容を書いてください...",
+    "image_label": "画像を添付",
+    "submit": "公開する",
+    "view_count": "{count}回閲覧",
+    "comment_title": "コメント",
+    "comment_placeholder": "コメントを書く（500文字以内）",
+    "comment_submit": "コメントする",
+    "no_posts": "まだ投稿がありません",
+    "read_more": "続きを読む"
+  },
+  "friend": {
+    "title": "フレンド",
+    "add_friend": "フレンド追加",
+    "pending": "申請中",
+    "accept": "承認",
+    "reject": "拒否",
+    "blocked": "ブロック済み",
+    "no_friends": "まだフレンドがいません",
+    "friend_request_sent": "フレンド申請を送りました！"
+  },
+  "notification": {
+    "title": "通知",
+    "guestbook": "{name}さんがゲストブックにメッセージを残しました",
+    "comment": "{name}さんがあなたの投稿にコメントしました",
+    "friend_request": "{name}さんからフレンド申請が届きました",
+    "friend_accept": "{name}さんがフレンド申請を承認しました",
+    "mark_read": "すべて既読にする",
+    "empty": "新しい通知はありません"
+  },
+  "support": {
+    "title": "Byeolchaeをサポート",
+    "subtitle": "コーヒー一杯でこのページを応援しよう ☕",
+    "bronze_label": "☕ コーヒー",
+    "bronze_desc": "₩3,000 · サポーターバッジ",
+    "silver_label": "🐾 キャットフード",
+    "silver_desc": "₩5,000 · 3ヶ月広告なし + シルバーバッジ",
+    "gold_label": "🐱 チュールセット",
+    "gold_desc": "₩10,000 · 1年広告なし + フルカスタマイズ + ゴールドバッジ",
+    "coffee_copy": "コーヒーで応援する",
+    "pay_button": "今すぐサポート"
+  },
+  "auth": {
+    "login_title": "Byeolchaeへようこそ",
+    "login_subtitle": "ログインしてあなただけのページを作ろう",
+    "google_login": "Googleで続ける",
+    "nickname_title": "ニックネームを決めよう",
+    "nickname_placeholder": "2〜20文字（英数字）",
+    "nickname_save": "ニックネームを保存",
+    "nickname_error": "このニックネームはすでに使われているか、無効です"
+  },
+  "moderation": {
+    "flagged_message": "このコンテンツは審査中です"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "Твоё личное пространство, всегда здесь",
+    "login": "Войти",
+    "logout": "Выйти",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "submit": "Отправить",
+    "back": "Назад",
+    "loading": "Загрузка...",
+    "error": "Что-то пошло не так",
+    "success": "Готово!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "Твой уголок, всегда здесь",
+    "hero_sub": "Даже если соцсети тебя заблокируют, друзья всё равно смогут зайти и оставить сообщение",
+    "hero_cta": "Создать мою страницу",
+    "feature_1_title": "Атмосфера мини-сайта",
+    "feature_1_sub": "Гостевая книга, друзья, BGM — классическая веб-ностальгия",
+    "feature_2_title": "Резервная копия соцсетей",
+    "feature_2_sub": "Твой дом, где друзья всегда смогут тебя найти",
+    "feature_3_title": "Настрой и поддержи",
+    "feature_3_sub": "Темы, цвета, BGM — разблокируй всё за чашку кофе",
+    "my_byeolchae": "Моя страница"
+  },
+  "profile": {
+    "edit_profile": "Настроить страницу",
+    "bio_placeholder": "Краткое описание (до 100 символов)",
+    "theme_label": "Цвет темы",
+    "bgm_label": "Фоновая музыка",
+    "save_profile": "Сохранить",
+    "supporter_badge_bronze": "☕ Кофе-supporter",
+    "supporter_badge_silver": "🥈 Серебряный supporter",
+    "supporter_badge_gold": "🥇 Золотой supporter"
+  },
+  "guestbook": {
+    "title": "Гостевая книга",
+    "placeholder": "Оставь короткое сообщение (макс. 140 символов)",
+    "submit": "Оставить сообщение",
+    "private_label": "Личное сообщение",
+    "char_limit": "{count}/140",
+    "empty": "Гостевая книга пуста. Будь первым!",
+    "leave_message": "Оставить сообщение"
+  },
+  "post": {
+    "write_title": "Написать запись",
+    "title_placeholder": "Заголовок",
+    "body_placeholder": "Напиши что-нибудь...",
+    "image_label": "Прикрепить изображение",
+    "submit": "Опубликовать",
+    "view_count": "{count} просмотров",
+    "comment_title": "Комментарии",
+    "comment_placeholder": "Написать комментарий (макс. 500 символов)",
+    "comment_submit": "Комментировать",
+    "no_posts": "Записей пока нет",
+    "read_more": "Читать далее"
+  },
+  "friend": {
+    "title": "Друзья",
+    "add_friend": "Добавить друга",
+    "pending": "Ожидает",
+    "accept": "Принять",
+    "reject": "Отклонить",
+    "blocked": "Заблокирован",
+    "no_friends": "Друзей пока нет",
+    "friend_request_sent": "Запрос в друзья отправлен!"
+  },
+  "notification": {
+    "title": "Уведомления",
+    "guestbook": "{name} оставил(а) сообщение в гостевой книге",
+    "comment": "{name} прокомментировал(а) твою запись",
+    "friend_request": "{name} отправил(а) тебе запрос в друзья",
+    "friend_accept": "{name} принял(а) твой запрос в друзья",
+    "mark_read": "Отметить все как прочитанные",
+    "empty": "Новых уведомлений нет"
+  },
+  "support": {
+    "title": "Поддержать Byeolchae",
+    "subtitle": "Угости меня кофе, чтобы поддержать эту страницу ☕",
+    "bronze_label": "☕ Кофе",
+    "bronze_desc": "₩3,000 · Значок supporter",
+    "silver_label": "🐾 Корм для кота",
+    "silver_desc": "₩5,000 · 3 месяца без рекламы + Серебряный значок",
+    "gold_label": "🐱 Набор лакомств",
+    "gold_desc": "₩10,000 · 1 год без рекламы + Полная кастомизация + Золотой значок",
+    "coffee_copy": "Поддержать кофе",
+    "pay_button": "Поддержать сейчас"
+  },
+  "auth": {
+    "login_title": "Добро пожаловать в Byeolchae",
+    "login_subtitle": "Войди, чтобы создать свою личную страницу",
+    "google_login": "Продолжить с Google",
+    "nickname_title": "Выбери никнейм",
+    "nickname_placeholder": "2–20 символов (буквы, цифры)",
+    "nickname_save": "Сохранить никнейм",
+    "nickname_error": "Этот никнейм уже занят или недействителен"
+  },
+  "moderation": {
+    "flagged_message": "Этот контент находится на проверке"
+  }
+}

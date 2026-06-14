@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "Seu espaço pessoal, sempre aqui",
+    "login": "Entrar",
+    "logout": "Sair",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "submit": "Enviar",
+    "back": "Voltar",
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "success": "Pronto!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "Seu cantinho, sempre aqui",
+    "hero_sub": "Mesmo que te banissem das redes sociais, seus amigos ainda podem te visitar e deixar mensagens",
+    "hero_cta": "Criar minha página",
+    "feature_1_title": "Estilo mini-homepage",
+    "feature_1_sub": "Livro de visitas, amigos, BGM — nostalgia clássica da web",
+    "feature_2_title": "Backup de redes sociais",
+    "feature_2_sub": "Seu próprio lar onde seus amigos sempre podem te encontrar",
+    "feature_3_title": "Personalize e apoie",
+    "feature_3_sub": "Temas, cores, BGM — desbloqueie tudo com um café",
+    "my_byeolchae": "Minha página"
+  },
+  "profile": {
+    "edit_profile": "Personalizar página",
+    "bio_placeholder": "Pequena bio (até 100 caracteres)",
+    "theme_label": "Cor do tema",
+    "bgm_label": "Música de fundo",
+    "save_profile": "Salvar",
+    "supporter_badge_bronze": "☕ Apoiador Café",
+    "supporter_badge_silver": "🥈 Apoiador Prata",
+    "supporter_badge_gold": "🥇 Apoiador Ouro"
+  },
+  "guestbook": {
+    "title": "Livro de visitas",
+    "placeholder": "Deixe uma mensagem curta (máx. 140 caracteres)",
+    "submit": "Deixar mensagem",
+    "private_label": "Mensagem privada",
+    "char_limit": "{count}/140",
+    "empty": "O livro de visitas está vazio. Seja o primeiro!",
+    "leave_message": "Deixar uma mensagem"
+  },
+  "post": {
+    "write_title": "Escrever publicação",
+    "title_placeholder": "Título",
+    "body_placeholder": "Escreva algo...",
+    "image_label": "Anexar imagem",
+    "submit": "Publicar",
+    "view_count": "{count} visualizações",
+    "comment_title": "Comentários",
+    "comment_placeholder": "Escreva um comentário (máx. 500 caracteres)",
+    "comment_submit": "Comentar",
+    "no_posts": "Ainda não há publicações",
+    "read_more": "Ler mais"
+  },
+  "friend": {
+    "title": "Amigos",
+    "add_friend": "Adicionar amigo",
+    "pending": "Pendente",
+    "accept": "Aceitar",
+    "reject": "Recusar",
+    "blocked": "Bloqueado",
+    "no_friends": "Ainda não há amigos",
+    "friend_request_sent": "Solicitação de amizade enviada!"
+  },
+  "notification": {
+    "title": "Notificações",
+    "guestbook": "{name} deixou uma mensagem no livro de visitas",
+    "comment": "{name} comentou na sua publicação",
+    "friend_request": "{name} te enviou uma solicitação de amizade",
+    "friend_accept": "{name} aceitou sua solicitação de amizade",
+    "mark_read": "Marcar tudo como lido",
+    "empty": "Nenhuma nova notificação"
+  },
+  "support": {
+    "title": "Apoiar Byeolchae",
+    "subtitle": "Me pague um café para apoiar esta página ☕",
+    "bronze_label": "☕ Café",
+    "bronze_desc": "₩3,000 · Distintivo de apoiador",
+    "silver_label": "🐾 Ração de gato",
+    "silver_desc": "₩5,000 · 3 meses sem anúncios + Distintivo prata",
+    "gold_label": "🐱 Kit Petisco",
+    "gold_desc": "₩10,000 · 1 ano sem anúncios + Personalização completa + Distintivo ouro",
+    "coffee_copy": "Apoiar com um café",
+    "pay_button": "Apoiar agora"
+  },
+  "auth": {
+    "login_title": "Bem-vindo ao Byeolchae",
+    "login_subtitle": "Entre para criar sua página pessoal",
+    "google_login": "Continuar com o Google",
+    "nickname_title": "Escolha um apelido",
+    "nickname_placeholder": "2–20 caracteres (letras, números)",
+    "nickname_save": "Salvar apelido",
+    "nickname_error": "Este apelido já está em uso ou é inválido"
+  },
+  "moderation": {
+    "flagged_message": "Este conteúdo está em análise"
+  }
+}

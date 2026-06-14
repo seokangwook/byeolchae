@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "พื้นที่ส่วนตัวของคุณ ที่นี่เสมอ",
+    "login": "เข้าสู่ระบบ",
+    "logout": "ออกจากระบบ",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "delete": "ลบ",
+    "edit": "แก้ไข",
+    "submit": "ส่ง",
+    "back": "กลับ",
+    "loading": "กำลังโหลด...",
+    "error": "เกิดข้อผิดพลาด",
+    "success": "เสร็จแล้ว!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "มุมเล็กๆ ของคุณ ที่นี่เสมอ",
+    "hero_sub": "แม้ SNS จะแบนคุณ เพื่อนๆ ก็ยังมาเยี่ยมและฝากข้อความได้",
+    "hero_cta": "สร้างหน้าของฉัน",
+    "feature_1_title": "บรรยากาศมินิโฮมเพจ",
+    "feature_1_sub": "สมุดเยี่ยม เพื่อน BGM — ความทรงจำเว็บคลาสสิก",
+    "feature_2_title": "สำรองข้อมูล SNS",
+    "feature_2_sub": "บ้านของคุณที่เพื่อนๆ หาพบได้เสมอ",
+    "feature_3_title": "ปรับแต่งและสนับสนุน",
+    "feature_3_sub": "ธีม สี BGM — ปลดล็อกทั้งหมดด้วยกาแฟหนึ่งแก้ว",
+    "my_byeolchae": "หน้าของฉัน"
+  },
+  "profile": {
+    "edit_profile": "ปรับแต่งหน้า",
+    "bio_placeholder": "แนะนำตัวสั้นๆ (ไม่เกิน 100 ตัวอักษร)",
+    "theme_label": "สีธีม",
+    "bgm_label": "เพลงพื้นหลัง",
+    "save_profile": "บันทึก",
+    "supporter_badge_bronze": "☕ ผู้สนับสนุนกาแฟ",
+    "supporter_badge_silver": "🥈 ผู้สนับสนุนเงิน",
+    "supporter_badge_gold": "🥇 ผู้สนับสนุนทอง"
+  },
+  "guestbook": {
+    "title": "สมุดเยี่ยม",
+    "placeholder": "ฝากข้อความสั้นๆ (ไม่เกิน 140 ตัวอักษร)",
+    "submit": "ฝากข้อความ",
+    "private_label": "ข้อความส่วนตัว",
+    "char_limit": "{count}/140",
+    "empty": "สมุดเยี่ยมยังว่างเปล่า มาเป็นคนแรกกันเถอะ!",
+    "leave_message": "ฝากข้อความ"
+  },
+  "post": {
+    "write_title": "เขียนโพสต์",
+    "title_placeholder": "หัวเรื่อง",
+    "body_placeholder": "เขียนอะไรบางอย่าง...",
+    "image_label": "แนบรูปภาพ",
+    "submit": "เผยแพร่",
+    "view_count": "{count} ครั้งที่ดู",
+    "comment_title": "ความคิดเห็น",
+    "comment_placeholder": "เขียนความคิดเห็น (ไม่เกิน 500 ตัวอักษร)",
+    "comment_submit": "แสดงความคิดเห็น",
+    "no_posts": "ยังไม่มีโพสต์",
+    "read_more": "อ่านเพิ่มเติม"
+  },
+  "friend": {
+    "title": "เพื่อน",
+    "add_friend": "เพิ่มเพื่อน",
+    "pending": "รอการตอบรับ",
+    "accept": "ยอมรับ",
+    "reject": "ปฏิเสธ",
+    "blocked": "ถูกบล็อก",
+    "no_friends": "ยังไม่มีเพื่อน",
+    "friend_request_sent": "ส่งคำขอเป็นเพื่อนแล้ว!"
+  },
+  "notification": {
+    "title": "การแจ้งเตือน",
+    "guestbook": "{name} ฝากข้อความในสมุดเยี่ยม",
+    "comment": "{name} แสดงความคิดเห็นในโพสต์ของคุณ",
+    "friend_request": "{name} ส่งคำขอเป็นเพื่อนมาให้คุณ",
+    "friend_accept": "{name} ยอมรับคำขอเป็นเพื่อนของคุณ",
+    "mark_read": "ทำเครื่องหมายอ่านแล้วทั้งหมด",
+    "empty": "ไม่มีการแจ้งเตือนใหม่"
+  },
+  "support": {
+    "title": "สนับสนุน Byeolchae",
+    "subtitle": "ซื้อกาแฟให้ฉันเพื่อสนับสนุนหน้านี้ ☕",
+    "bronze_label": "☕ กาแฟ",
+    "bronze_desc": "₩3,000 · ป้ายผู้สนับสนุน",
+    "silver_label": "🐾 อาหารแมว",
+    "silver_desc": "₩5,000 · 3 เดือนไม่มีโฆษณา + ป้ายเงิน",
+    "gold_label": "🐱 ชุดของว่าง",
+    "gold_desc": "₩10,000 · 1 ปีไม่มีโฆษณา + ปรับแต่งได้เต็มที่ + ป้ายทอง",
+    "coffee_copy": "สนับสนุนด้วยกาแฟ",
+    "pay_button": "สนับสนุนเลย"
+  },
+  "auth": {
+    "login_title": "ยินดีต้อนรับสู่ Byeolchae",
+    "login_subtitle": "เข้าสู่ระบบเพื่อสร้างหน้าส่วนตัวของคุณ",
+    "google_login": "ดำเนินการต่อด้วย Google",
+    "nickname_title": "เลือกชื่อเล่น",
+    "nickname_placeholder": "2–20 ตัวอักษร (ตัวอักษร ตัวเลข)",
+    "nickname_save": "บันทึกชื่อเล่น",
+    "nickname_error": "ชื่อเล่นนี้ถูกใช้แล้วหรือไม่ถูกต้อง"
+  },
+  "moderation": {
+    "flagged_message": "เนื้อหานี้กำลังอยู่ระหว่างการตรวจสอบ"
+  }
+}

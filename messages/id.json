@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "Ruang pribadimu, selalu ada di sini",
+    "login": "Masuk",
+    "logout": "Keluar",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "submit": "Kirim",
+    "back": "Kembali",
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "success": "Selesai!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "Sudut kecilmu, selalu ada di sini",
+    "hero_sub": "Meski akun SNS-mu diblokir, teman-temanmu tetap bisa berkunjung dan meninggalkan pesan",
+    "hero_cta": "Buat Halaman Saya",
+    "feature_1_title": "Nuansa mini-homepage",
+    "feature_1_sub": "Buku tamu, teman, BGM — nostalgia web klasik",
+    "feature_2_title": "Cadangan SNS",
+    "feature_2_sub": "Rumahmu sendiri tempat teman selalu bisa menemukanmu",
+    "feature_3_title": "Kustomisasi & Dukung",
+    "feature_3_sub": "Tema, warna, BGM — buka semua dengan secangkir kopi",
+    "my_byeolchae": "Halaman Saya"
+  },
+  "profile": {
+    "edit_profile": "Kustomisasi Halaman",
+    "bio_placeholder": "Bio singkat (maks. 100 karakter)",
+    "theme_label": "Warna Tema",
+    "bgm_label": "Musik Latar",
+    "save_profile": "Simpan",
+    "supporter_badge_bronze": "☕ Pendukung Kopi",
+    "supporter_badge_silver": "🥈 Pendukung Perak",
+    "supporter_badge_gold": "🥇 Pendukung Emas"
+  },
+  "guestbook": {
+    "title": "Buku Tamu",
+    "placeholder": "Tinggalkan pesan singkat (maks. 140 karakter)",
+    "submit": "Tinggalkan Pesan",
+    "private_label": "Pesan pribadi",
+    "char_limit": "{count}/140",
+    "empty": "Buku tamu masih kosong. Jadilah yang pertama!",
+    "leave_message": "Tinggalkan Pesan"
+  },
+  "post": {
+    "write_title": "Tulis Postingan",
+    "title_placeholder": "Judul",
+    "body_placeholder": "Tulis sesuatu...",
+    "image_label": "Lampirkan Gambar",
+    "submit": "Publikasikan",
+    "view_count": "{count} kali dilihat",
+    "comment_title": "Komentar",
+    "comment_placeholder": "Tulis komentar (maks. 500 karakter)",
+    "comment_submit": "Komentari",
+    "no_posts": "Belum ada postingan",
+    "read_more": "Baca Selengkapnya"
+  },
+  "friend": {
+    "title": "Teman",
+    "add_friend": "Tambah Teman",
+    "pending": "Menunggu",
+    "accept": "Terima",
+    "reject": "Tolak",
+    "blocked": "Diblokir",
+    "no_friends": "Belum ada teman",
+    "friend_request_sent": "Permintaan pertemanan terkirim!"
+  },
+  "notification": {
+    "title": "Notifikasi",
+    "guestbook": "{name} meninggalkan pesan di buku tamu",
+    "comment": "{name} mengomentari postinganmu",
+    "friend_request": "{name} mengirimimu permintaan pertemanan",
+    "friend_accept": "{name} menerima permintaan pertemananmu",
+    "mark_read": "Tandai semua sudah dibaca",
+    "empty": "Tidak ada notifikasi baru"
+  },
+  "support": {
+    "title": "Dukung Byeolchae",
+    "subtitle": "Traktir aku kopi untuk mendukung halaman ini ☕",
+    "bronze_label": "☕ Kopi",
+    "bronze_desc": "₩3,000 · Lencana pendukung",
+    "silver_label": "🐾 Makanan Kucing",
+    "silver_desc": "₩5,000 · 3 bulan tanpa iklan + Lencana perak",
+    "gold_label": "🐱 Set Camilan",
+    "gold_desc": "₩10,000 · 1 tahun tanpa iklan + Kustomisasi penuh + Lencana emas",
+    "coffee_copy": "Dukung dengan kopi",
+    "pay_button": "Dukung Sekarang"
+  },
+  "auth": {
+    "login_title": "Selamat datang di Byeolchae",
+    "login_subtitle": "Masuk untuk membuat halaman pribadimu",
+    "google_login": "Lanjutkan dengan Google",
+    "nickname_title": "Pilih nama panggilan",
+    "nickname_placeholder": "2–20 karakter (huruf, angka)",
+    "nickname_save": "Simpan Nama Panggilan",
+    "nickname_error": "Nama panggilan ini sudah digunakan atau tidak valid"
+  },
+  "moderation": {
+    "flagged_message": "Konten ini sedang ditinjau"
+  }
+}

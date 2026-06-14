@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "Your personal space, always here",
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Done!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "Your little corner, always here",
+    "hero_sub": "Even when SNS bans you, your friends can still visit and leave messages",
+    "hero_cta": "Create My Page",
+    "feature_1_title": "Mini-homepage vibes",
+    "feature_1_sub": "Guestbook, friends, BGM — classic web nostalgia",
+    "feature_2_title": "SNS Backup",
+    "feature_2_sub": "Your own home where friends can always find you",
+    "feature_3_title": "Customize & Support",
+    "feature_3_sub": "Themes, colors, BGM — unlock all with a coffee",
+    "my_byeolchae": "My Page"
+  },
+  "profile": {
+    "edit_profile": "Customize Page",
+    "bio_placeholder": "Short bio (under 100 chars)",
+    "theme_label": "Theme Color",
+    "bgm_label": "Background Music",
+    "save_profile": "Save",
+    "supporter_badge_bronze": "☕ Coffee Supporter",
+    "supporter_badge_silver": "🥈 Silver Supporter",
+    "supporter_badge_gold": "🥇 Gold Supporter"
+  },
+  "guestbook": {
+    "title": "Guestbook",
+    "placeholder": "Leave a short message (140 chars max)",
+    "submit": "Leave Message",
+    "private_label": "Private message",
+    "char_limit": "{count}/140",
+    "empty": "The guestbook is empty. Be the first!",
+    "leave_message": "Leave a Message"
+  },
+  "post": {
+    "write_title": "Write a Post",
+    "title_placeholder": "Title",
+    "body_placeholder": "Write something...",
+    "image_label": "Attach Image",
+    "submit": "Publish",
+    "view_count": "{count} views",
+    "comment_title": "Comments",
+    "comment_placeholder": "Write a comment (500 chars max)",
+    "comment_submit": "Comment",
+    "no_posts": "No posts yet",
+    "read_more": "Read More"
+  },
+  "friend": {
+    "title": "Friends",
+    "add_friend": "Add Friend",
+    "pending": "Pending",
+    "accept": "Accept",
+    "reject": "Reject",
+    "blocked": "Blocked",
+    "no_friends": "No friends yet",
+    "friend_request_sent": "Friend request sent!"
+  },
+  "notification": {
+    "title": "Notifications",
+    "guestbook": "{name} left a guestbook message",
+    "comment": "{name} commented on your post",
+    "friend_request": "{name} sent you a friend request",
+    "friend_accept": "{name} accepted your friend request",
+    "mark_read": "Mark all read",
+    "empty": "No new notifications"
+  },
+  "support": {
+    "title": "Support Byeolchae",
+    "subtitle": "Buy me a coffee to support this page ☕",
+    "bronze_label": "☕ Coffee",
+    "bronze_desc": "₩3,000 · Supporter badge",
+    "silver_label": "🐾 Cat Food",
+    "silver_desc": "₩5,000 · 3 months ad-free + Silver badge",
+    "gold_label": "🐱 Churr Set",
+    "gold_desc": "₩10,000 · 1 year ad-free + Full customization + Gold badge",
+    "coffee_copy": "Support with a coffee",
+    "pay_button": "Support Now"
+  },
+  "auth": {
+    "login_title": "Welcome to Byeolchae",
+    "login_subtitle": "Login to create your personal page",
+    "google_login": "Continue with Google",
+    "nickname_title": "Choose a nickname",
+    "nickname_placeholder": "2–20 chars (letters, numbers)",
+    "nickname_save": "Save Nickname",
+    "nickname_error": "This nickname is taken or invalid"
+  },
+  "moderation": {
+    "flagged_message": "This content is under review"
+  }
+}

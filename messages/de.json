@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "Dein persönlicher Raum, immer hier",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "submit": "Absenden",
+    "back": "Zurück",
+    "loading": "Laden...",
+    "error": "Etwas ist schiefgelaufen",
+    "success": "Erledigt!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "Dein kleines Eckchen, immer hier",
+    "hero_sub": "Selbst wenn dich SNS sperrt, können deine Freunde dich besuchen und Nachrichten hinterlassen",
+    "hero_cta": "Meine Seite erstellen",
+    "feature_1_title": "Mini-Homepage-Feeling",
+    "feature_1_sub": "Gästebuch, Freunde, BGM — klassische Web-Nostalgie",
+    "feature_2_title": "SNS-Backup",
+    "feature_2_sub": "Dein eigenes Zuhause, wo deine Freunde dich immer finden",
+    "feature_3_title": "Anpassen & Unterstützen",
+    "feature_3_sub": "Themes, Farben, BGM — alles mit einem Kaffee freischalten",
+    "my_byeolchae": "Meine Seite"
+  },
+  "profile": {
+    "edit_profile": "Seite anpassen",
+    "bio_placeholder": "Kurze Bio (max. 100 Zeichen)",
+    "theme_label": "Themenfarbe",
+    "bgm_label": "Hintergrundmusik",
+    "save_profile": "Speichern",
+    "supporter_badge_bronze": "☕ Kaffee-Supporter",
+    "supporter_badge_silver": "🥈 Silber-Supporter",
+    "supporter_badge_gold": "🥇 Gold-Supporter"
+  },
+  "guestbook": {
+    "title": "Gästebuch",
+    "placeholder": "Hinterlasse eine kurze Nachricht (max. 140 Zeichen)",
+    "submit": "Nachricht hinterlassen",
+    "private_label": "Private Nachricht",
+    "char_limit": "{count}/140",
+    "empty": "Das Gästebuch ist leer. Sei der Erste!",
+    "leave_message": "Eine Nachricht hinterlassen"
+  },
+  "post": {
+    "write_title": "Beitrag schreiben",
+    "title_placeholder": "Titel",
+    "body_placeholder": "Schreib etwas...",
+    "image_label": "Bild anhängen",
+    "submit": "Veröffentlichen",
+    "view_count": "{count} Aufrufe",
+    "comment_title": "Kommentare",
+    "comment_placeholder": "Kommentar schreiben (max. 500 Zeichen)",
+    "comment_submit": "Kommentieren",
+    "no_posts": "Noch keine Beiträge",
+    "read_more": "Weiterlesen"
+  },
+  "friend": {
+    "title": "Freunde",
+    "add_friend": "Freund hinzufügen",
+    "pending": "Ausstehend",
+    "accept": "Annehmen",
+    "reject": "Ablehnen",
+    "blocked": "Blockiert",
+    "no_friends": "Noch keine Freunde",
+    "friend_request_sent": "Freundschaftsanfrage gesendet!"
+  },
+  "notification": {
+    "title": "Benachrichtigungen",
+    "guestbook": "{name} hat eine Nachricht im Gästebuch hinterlassen",
+    "comment": "{name} hat deinen Beitrag kommentiert",
+    "friend_request": "{name} hat dir eine Freundschaftsanfrage geschickt",
+    "friend_accept": "{name} hat deine Freundschaftsanfrage angenommen",
+    "mark_read": "Alle als gelesen markieren",
+    "empty": "Keine neuen Benachrichtigungen"
+  },
+  "support": {
+    "title": "Byeolchae unterstützen",
+    "subtitle": "Spendiere mir einen Kaffee, um diese Seite zu unterstützen ☕",
+    "bronze_label": "☕ Kaffee",
+    "bronze_desc": "₩3,000 · Supporter-Abzeichen",
+    "silver_label": "🐾 Katzenfutter",
+    "silver_desc": "₩5,000 · 3 Monate werbefrei + Silber-Abzeichen",
+    "gold_label": "🐱 Leckerli-Set",
+    "gold_desc": "₩10,000 · 1 Jahr werbefrei + Volle Anpassung + Gold-Abzeichen",
+    "coffee_copy": "Mit einem Kaffee unterstützen",
+    "pay_button": "Jetzt unterstützen"
+  },
+  "auth": {
+    "login_title": "Willkommen bei Byeolchae",
+    "login_subtitle": "Melde dich an, um deine persönliche Seite zu erstellen",
+    "google_login": "Mit Google fortfahren",
+    "nickname_title": "Wähle einen Spitznamen",
+    "nickname_placeholder": "2–20 Zeichen (Buchstaben, Zahlen)",
+    "nickname_save": "Spitznamen speichern",
+    "nickname_error": "Dieser Spitzname ist vergeben oder ungültig"
+  },
+  "moderation": {
+    "flagged_message": "Dieser Inhalt wird gerade überprüft"
+  }
+}

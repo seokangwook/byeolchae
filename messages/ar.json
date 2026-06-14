@@ -1,0 +1,106 @@
+{
+  "common": {
+    "brand": "Byeolchae",
+    "tagline": "مساحتك الشخصية، دائمًا هنا",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "submit": "إرسال",
+    "back": "رجوع",
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما",
+    "success": "تم!",
+    "powered_by": "Powered by Revely",
+    "operated_by": "Operated by revely.company"
+  },
+  "landing": {
+    "hero_title": "ركنك الصغير، دائمًا هنا",
+    "hero_sub": "حتى لو حظرتك الشبكات الاجتماعية، لا يزال أصدقاؤك يستطيعون زيارتك وترك الرسائل",
+    "hero_cta": "إنشاء صفحتي",
+    "feature_1_title": "أجواء الموقع الشخصي",
+    "feature_1_sub": "سجل الزوار، الأصدقاء، الموسيقى — نوستالجيا الإنترنت الكلاسيكي",
+    "feature_2_title": "نسخة احتياطية من السوشيال ميديا",
+    "feature_2_sub": "بيتك الخاص حيث يجدك أصدقاؤك دائمًا",
+    "feature_3_title": "خصص وادعم",
+    "feature_3_sub": "ثيمات، ألوان، موسيقى — افتح الكل بفنجان قهوة",
+    "my_byeolchae": "صفحتي"
+  },
+  "profile": {
+    "edit_profile": "تخصيص الصفحة",
+    "bio_placeholder": "نبذة قصيرة (أقل من 100 حرف)",
+    "theme_label": "لون الثيم",
+    "bgm_label": "موسيقى الخلفية",
+    "save_profile": "حفظ",
+    "supporter_badge_bronze": "☕ داعم القهوة",
+    "supporter_badge_silver": "🥈 الداعم الفضي",
+    "supporter_badge_gold": "🥇 الداعم الذهبي"
+  },
+  "guestbook": {
+    "title": "سجل الزوار",
+    "placeholder": "اترك رسالة قصيرة (140 حرفًا كحد أقصى)",
+    "submit": "ترك رسالة",
+    "private_label": "رسالة خاصة",
+    "char_limit": "{count}/140",
+    "empty": "سجل الزوار فارغ. كن الأول!",
+    "leave_message": "ترك رسالة"
+  },
+  "post": {
+    "write_title": "كتابة منشور",
+    "title_placeholder": "العنوان",
+    "body_placeholder": "اكتب شيئًا...",
+    "image_label": "إرفاق صورة",
+    "submit": "نشر",
+    "view_count": "{count} مشاهدات",
+    "comment_title": "التعليقات",
+    "comment_placeholder": "اكتب تعليقًا (500 حرف كحد أقصى)",
+    "comment_submit": "تعليق",
+    "no_posts": "لا توجد منشورات بعد",
+    "read_more": "اقرأ المزيد"
+  },
+  "friend": {
+    "title": "الأصدقاء",
+    "add_friend": "إضافة صديق",
+    "pending": "قيد الانتظار",
+    "accept": "قبول",
+    "reject": "رفض",
+    "blocked": "محظور",
+    "no_friends": "لا أصدقاء بعد",
+    "friend_request_sent": "تم إرسال طلب الصداقة!"
+  },
+  "notification": {
+    "title": "الإشعارات",
+    "guestbook": "ترك {name} رسالة في سجل الزوار",
+    "comment": "علّق {name} على منشورك",
+    "friend_request": "أرسل إليك {name} طلب صداقة",
+    "friend_accept": "قبل {name} طلب صداقتك",
+    "mark_read": "وضع علامة مقروء على الكل",
+    "empty": "لا توجد إشعارات جديدة"
+  },
+  "support": {
+    "title": "دعم Byeolchae",
+    "subtitle": "اشترِ لي قهوة لدعم هذه الصفحة ☕",
+    "bronze_label": "☕ قهوة",
+    "bronze_desc": "₩3,000 · شارة الداعم",
+    "silver_label": "🐾 طعام القطط",
+    "silver_desc": "₩5,000 · 3 أشهر بدون إعلانات + شارة فضية",
+    "gold_label": "🐱 طقم الوجبات الخفيفة",
+    "gold_desc": "₩10,000 · سنة بدون إعلانات + تخصيص كامل + شارة ذهبية",
+    "coffee_copy": "الدعم بفنجان قهوة",
+    "pay_button": "ادعم الآن"
+  },
+  "auth": {
+    "login_title": "مرحبًا بك في Byeolchae",
+    "login_subtitle": "سجّل دخولك لإنشاء صفحتك الشخصية",
+    "google_login": "المتابعة مع Google",
+    "nickname_title": "اختر اسمًا مستعارًا",
+    "nickname_placeholder": "2–20 حرفًا (أحرف، أرقام)",
+    "nickname_save": "حفظ الاسم المستعار",
+    "nickname_error": "هذا الاسم المستعار مستخدم أو غير صالح"
+  },
+  "moderation": {
+    "flagged_message": "هذا المحتوى قيد المراجعة"
+  }
+}
