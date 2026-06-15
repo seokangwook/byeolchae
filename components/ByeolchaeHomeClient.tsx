@@ -14,7 +14,7 @@ import SupportModal from './SupportModal';
 interface Props {
   locale: Locale;
   messages: Messages;
-  owner: { id: string; nickname: string; avatar_url: string | null };
+  owner: { id: string; nickname: string; avatar_url?: string | null };
   byeolchaeProfile: {
     bio?: string;
     theme_color?: string;

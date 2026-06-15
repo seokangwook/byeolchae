@@ -20,7 +20,7 @@ export default async function ByeolchaePage({
   // Look up the profile owner by nickname
   const { data: profileOwner } = await supabase
     .from('profiles')
-    .select('id, nickname, avatar_url')
+    .select('id, nickname')
     .eq('nickname', nickname)
     .single();
 
@@ -37,7 +37,7 @@ export default async function ByeolchaePage({
       .limit(10),
     supabase
       .from('byeolchae_guestbook')
-      .select('id, content, is_private, created_at, profiles!author_user(nickname, avatar_url)')
+      .select('id, content, is_private, created_at, profiles!author_user(nickname)')
       .eq('host_user', profileOwner.id)
       .eq('moderation_status', 'approved')
       .eq('is_private', false)

@@ -13,7 +13,7 @@ export default async function MePage({ params }: { params: Promise<{ locale: str
   if (!user) redirect(`/${locale}?login=1`);
 
   const [profileRes, byeolchaeRes, supporterRes] = await Promise.all([
-    supabase.from('profiles').select('nickname, avatar_url').eq('id', user.id).single(),
+    supabase.from('profiles').select('nickname').eq('id', user.id).single(),
     supabase.from('byeolchae_profiles').select('*').eq('user_id', user.id).single(),
     supabase.from('byeolchae_supporters')
       .select('tier, expires_at, ads_disabled_until')
