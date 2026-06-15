@@ -15,16 +15,16 @@ export default async function FriendsPage({ params }: { params: Promise<{ locale
   const [sentRes, receivedRes, friendsRes] = await Promise.all([
     supabase
       .from('byeolchae_friends')
-      .select('id, to_user, status, created_at, profiles!to_user(nickname, avatar_url)')
+      .select('id, to_user, status, created_at, profiles!to_user(nickname)')
       .eq('from_user', user.id),
     supabase
       .from('byeolchae_friends')
-      .select('id, from_user, status, created_at, profiles!from_user(nickname, avatar_url)')
+      .select('id, from_user, status, created_at, profiles!from_user(nickname)')
       .eq('to_user', user.id)
       .eq('status', 'pending'),
     supabase
       .from('byeolchae_friends')
-      .select('id, from_user, to_user, profiles!to_user(nickname, avatar_url)')
+      .select('id, from_user, to_user, profiles!to_user(nickname)')
       .eq('from_user', user.id)
       .eq('status', 'accepted'),
   ]);

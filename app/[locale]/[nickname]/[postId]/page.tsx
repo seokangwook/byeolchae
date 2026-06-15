@@ -16,13 +16,13 @@ export default async function PostDetailPage({
   const [postRes, commentsRes, viewerRes] = await Promise.all([
     supabase
       .from('byeolchae_posts')
-      .select('*, profiles!author_user(nickname, avatar_url)')
+      .select('*, profiles!author_user(nickname)')
       .eq('id', postId)
       .eq('moderation_status', 'approved')
       .single(),
     supabase
       .from('byeolchae_comments')
-      .select('id, content, created_at, profiles!author_user(nickname, avatar_url)')
+      .select('id, content, created_at, profiles!author_user(nickname)')
       .eq('post_id', postId)
       .eq('moderation_status', 'approved')
       .order('created_at', { ascending: true }),
