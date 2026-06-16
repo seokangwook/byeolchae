@@ -17,18 +17,15 @@ export default async function ByeolchaePage({
 
   const supabase = await getSupabaseServer();
 
-  // decodeURIComponent guard: Next.js may pass URL-encoded segment in some deployments
+  // Next.js passes dynamic segments URL-encoded in some deployments; always decode
   const decodedNickname = decodeURIComponent(nickname);
-  console.log('[byeolchae] nickname param:', JSON.stringify(nickname), '→ decoded:', JSON.stringify(decodedNickname));
 
   // Look up the profile owner by nickname
-  const { data: profileOwner, error: profileError } = await supabase
+  const { data: profileOwner } = await supabase
     .from('profiles')
     .select('id, nickname')
     .eq('nickname', decodedNickname)
     .single();
-
-  console.log('[byeolchae] profileOwner:', JSON.stringify(profileOwner), 'error:', JSON.stringify(profileError));
 
   if (!profileOwner) notFound();
 
