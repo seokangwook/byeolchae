@@ -4,3 +4,4 @@
 node_modules/
 .vercel/
 *.pem
+next-env.d.ts
